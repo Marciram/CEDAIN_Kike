@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "CEDAIN_Kike",
+    "slug": "CEDAIN_Kike"
+  }
+}
